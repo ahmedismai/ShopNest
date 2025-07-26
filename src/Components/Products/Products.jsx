@@ -72,7 +72,7 @@ export default function Products() {
                 alt={product.title}
               />
               <h3 className='font-bold mb-1 mt-4 ml-3'>
-                {product.title.split(" ").slice(0, 2).join(" ")}
+                {product.title.split(" ").slice(0, 1).join(" ")}
               </h3>
               <div className='flex justify-between p-3'>
                 <span>{product.price} EGP</span>
