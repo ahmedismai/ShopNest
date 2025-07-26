@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/417d3289-dbb3-4ebf-85a4-d8f138b2e2d7" /># 🛍️ ShopNest
+# 🛍️ ShopNest
 
 ShopNest is a modern and responsive **E-Commerce Web Application** built with React and Tailwind CSS. It allows users to browse products, view product details, and manage their shopping cart seamlessly. The app consumes the [FakeStoreAPI](https://fakestoreapi.com/) to fetch product data.
 
