@@ -8,21 +8,21 @@ ShopNest is a modern and responsive **E-Commerce Web Application** built with Re
 
 ## 📸 Screenshots
 
-![ShopNest Home](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a2abe6bb-ba16-4e94-8f98-048ab6c288aa" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a2abe6bb-ba16-4e94-8f98-048ab6c288aa" />
 
-)
-![ShopNest Products](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/618660d3-cff5-4bb3-a5f2-5cbd91b9985f" />
 
-)
-![ShopNest Products](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a2eee18b-7c34-42ec-94f5-e810309234f5" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/618660d3-cff5-4bb3-a5f2-5cbd91b9985f" />
 
-)
-![ShopNest ProductDetails](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0fb26b6d-f09d-4182-b1cd-978976d377cc" />
 
-)
-![ShopNest ProductDetails](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dc66b899-5ec2-4c51-be65-85a15d51228d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a2eee18b-7c34-42ec-94f5-e810309234f5" />
 
-)
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0fb26b6d-f09d-4182-b1cd-978976d377cc" />
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dc66b899-5ec2-4c51-be65-85a15d51228d" />
+
+
 
 ## ⚙️ Features
 
